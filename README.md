@@ -1,7 +1,7 @@
 # MathWordProblem
 Question Generator for math word problem.
 #Rahul Sharma
-#CA - NIT Trichy
+#MCA - NIT Trichy
 
 
 **Introduction**
@@ -21,5 +21,18 @@ I’ve firmly believed that this software will help in math word problems becaus
  
  
  **Run**
- Run home file
+============= 
+ Run home.py file
+ all the other files are linked to home file...
+ whenever we click on any of the option... the system will generate every time new question and answer of the question also it calculate by itself.
+it ask to the user for answer...
+user can check for the question equation if the level of difficulty is high according to the user understanding...
+
+**Result**
+this project will generate the dataset of questions for the math word problem.
+it also interact to the user to show question and will tell the correct answer to the user.
  
+
+
+
+
