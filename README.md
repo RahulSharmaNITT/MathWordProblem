@@ -28,6 +28,8 @@ I’ve firmly believed that this software will help in math word problems becaus
 it ask to the user for answer...
 user can check for the question equation if the level of difficulty is high according to the user understanding...
 
+
+
 **Result**
 this project will generate the dataset of questions for the math word problem.
 it also interact to the user to show question and will tell the correct answer to the user.
